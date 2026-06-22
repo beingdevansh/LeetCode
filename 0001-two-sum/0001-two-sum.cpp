@@ -8,7 +8,8 @@ public:
             {
                 if(nums[i] + nums[j] == target)
                 {
-                    ans = {i,j};
+                    ans.push_back(j);
+                    ans.push_back(i);
                 }
             }
         }
