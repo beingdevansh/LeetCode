@@ -1,8 +1,10 @@
 # LeetCode
 A collection of LeetCode questions to ace the coding interview!
-
-![Java][![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-![C++][![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp" />
+  </a>
+</p>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
