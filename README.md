@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
 | [1920-build-array-from-permutation](https://github.com/beingdevansh/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/beingdevansh/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/beingdevansh/LeetCode/tree/master/0009-palindrome-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/beingdevansh/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/beingdevansh/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
