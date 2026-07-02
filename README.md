@@ -1,10 +1,12 @@
 # LeetCode
 A collection of LeetCode questions to ace the coding interview!
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp" />
   </a>
 </p>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
