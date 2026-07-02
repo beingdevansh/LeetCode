@@ -38,6 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/beingdevansh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3838-weighted-word-mapping](https://github.com/beingdevansh/LeetCode/tree/master/3838-weighted-word-mapping) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/beingdevansh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
