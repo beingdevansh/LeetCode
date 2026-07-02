@@ -1,17 +1,19 @@
 class Solution {
 public:
     bool isStrictlyPalindromic(int n) {
-        for (int i = 2; i <= n - 2; i++) {
+        for (int i = 2; i <= n - 2; i++) 
+        {
             int temp = n;
-            string digits = "";
+            string result = "";
             while (temp > 0) {
-                int rem = temp % i;
-                digits = to_string(rem) + digits;
+                int digit = temp % i;
+                result += to_string(digit);
                 temp /= i;
             }
-            string rev = digits;
+
+            string rev = result;
             reverse(rev.begin(), rev.end());
-            if (digits != rev) return false;
+            if (result != rev) return false;
         }
         return true;
     }
