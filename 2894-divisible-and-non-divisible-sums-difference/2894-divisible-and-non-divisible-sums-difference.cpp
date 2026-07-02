@@ -9,7 +9,7 @@ public:
                 d += i;
             }
 
-            if(i%m != 0)
+            else
             {
                 nd += i;
             }
