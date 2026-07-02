@@ -1,14 +1,12 @@
 class Solution {
 public:
     int minPartitions(string n) {
-        set <int> st;
+        int ans = 0;
         for(char ch : n)
         {
-            st.insert(ch - '0');
+            ans = max(ans, ch - '0');
         }
 
-        int max = *max_element(st.begin(), st.end());
-
-        return max;
+        return ans;
     }
 };
