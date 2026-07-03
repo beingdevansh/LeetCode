@@ -1,12 +1,8 @@
 # LeetCode
 A collection of LeetCode questions to ace the coding interview!
 
-# LeetCode Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp" />
-  </a>
-</p>
+# Languages
+<img src="https://skillicons.dev/icons?i=java,cpp" />
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
