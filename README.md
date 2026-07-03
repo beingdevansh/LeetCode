@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/beingdevansh/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/beingdevansh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/beingdevansh/LeetCode/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/beingdevansh/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/beingdevansh/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/beingdevansh/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/beingdevansh/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
