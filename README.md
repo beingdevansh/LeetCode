@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/beingdevansh/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/beingdevansh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/beingdevansh/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/beingdevansh/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/beingdevansh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Brainteaser
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/beingdevansh/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Matrix
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Stack
 |  |
 | ------- |
