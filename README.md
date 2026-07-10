@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/beingdevansh/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/beingdevansh/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/beingdevansh/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3280-convert-date-to-binary](https://github.com/beingdevansh/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beingdevansh/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/beingdevansh/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/beingdevansh/LeetCode/tree/master/3516-find-closest-person) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/beingdevansh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/beingdevansh/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/beingdevansh/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3280-convert-date-to-binary](https://github.com/beingdevansh/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/beingdevansh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beingdevansh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/beingdevansh/LeetCode/tree/master/3794-reverse-string-prefix) |
