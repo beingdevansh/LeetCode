@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/beingdevansh/LeetCode/tree/master/0009-palindrome-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/beingdevansh/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/beingdevansh/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
