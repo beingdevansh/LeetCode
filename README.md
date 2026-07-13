@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/beingdevansh/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/beingdevansh/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
