@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/beingdevansh/LeetCode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/beingdevansh/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/beingdevansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/beingdevansh/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/beingdevansh/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/beingdevansh/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/beingdevansh/LeetCode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/beingdevansh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/beingdevansh/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/beingdevansh/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/beingdevansh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -170,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/beingdevansh/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/beingdevansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
