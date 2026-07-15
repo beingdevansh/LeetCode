@@ -7,9 +7,7 @@ public:
         int j = nums.size() - 1;
         while(i < j)
         {
-            ans = max(ans,(nums[i] + nums[j]));
-            i++;
-            j--;
+            ans = max(ans,(nums[i++] + nums[j--]));
         }
 
         return ans;
