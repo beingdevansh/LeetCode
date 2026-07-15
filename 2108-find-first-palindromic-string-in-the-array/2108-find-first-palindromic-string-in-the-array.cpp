@@ -3,17 +3,21 @@ public:
     string firstPalindrome(vector<string>& words) {
         for(string s : words)
         {
-            string temp = s;
+            bool flag = true;
             int l = 0;
             int r = s.size() - 1;
             while(l < r)
             {
-                swap(temp[l], temp[r]);
+                if(s[l] != s[r])
+                {
+                    flag = false;
+                    break;
+                }
                 l++;
                 r--;
             }
 
-            if(temp == s)
+            if(flag)
             {
                 return s;
             }
