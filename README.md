@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/beingdevansh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/beingdevansh/LeetCode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/beingdevansh/LeetCode/tree/master/1051-height-checker) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/beingdevansh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
