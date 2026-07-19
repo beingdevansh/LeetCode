@@ -8,8 +8,11 @@ public:
             if(s[i] != s[j])
             {
                 char ch = min(s[i], s[j]);
-                s[i] = ch;
-                s[j] = ch;
+                if(ch == s[i])
+                    s[j] = ch;
+
+                else
+                    s[i] = ch;
             }
 
             i++;
