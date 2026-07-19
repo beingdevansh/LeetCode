@@ -1,20 +1,12 @@
 class Solution {
 public:
     string makeSmallestPalindrome(string s) {
-        int i = 0;
-        int j = s.size() - 1;
-        while(i <= j)
-        {
-            if(s[i] != s[j])
-            {
-                char ch = min(s[i], s[j]);
-                if(ch == s[i])
-                    s[j] = ch;
+        int i = 0, j = s.size() - 1;
 
-                else
-                    s[i] = ch;
-            }
-
+        while (i < j) {
+            char ch = min(s[i], s[j]);
+            s[i] = ch;
+            s[j] = ch;
             i++;
             j--;
         }
