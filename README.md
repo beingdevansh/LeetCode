@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/beingdevansh/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/beingdevansh/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/beingdevansh/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/beingdevansh/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/beingdevansh/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/beingdevansh/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/beingdevansh/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/beingdevansh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/beingdevansh/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/beingdevansh/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/beingdevansh/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/beingdevansh/LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/beingdevansh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/beingdevansh/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/beingdevansh/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Brainteaser
 |  |
 | ------- |
