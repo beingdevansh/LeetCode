@@ -15,15 +15,13 @@ public:
             }
         }
         
-        int gcd = 1;
-        for(int i = 1; i <= min(se,so); i++)
+        while(so != 0)
         {
-            if(se%i == 0 && so%i == 0)
-            {
-                gcd = max(gcd,i);
-            }
+            int rem = se%so;
+            se = so;
+            so = rem;
         }
 
-        return gcd;
+        return se;
     }
 };
