@@ -13,19 +13,13 @@ public:
         }
 
         sort(a.begin(), a.end());
-        double median;
         int n = a.size();
 
-        if(n%2 != 0)
+        if(n%2 == 0)
         {
-            median = a[(n+1)/2 - 1];
+            return (a[n/2] + a[n/2 - 1])/2.0;
         }
 
-        else
-        {
-            median = (a[(n/2) - 1] + a[(n/2)])/2.0;
-        }
-
-        return median;
+        return a[n/2];
     }
 };
