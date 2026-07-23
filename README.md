@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/beingdevansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/beingdevansh/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/beingdevansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/beingdevansh/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/beingdevansh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/beingdevansh/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/beingdevansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/beingdevansh/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
