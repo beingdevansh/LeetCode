@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/beingdevansh/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/beingdevansh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/beingdevansh/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/beingdevansh/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/beingdevansh/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beingdevansh/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/beingdevansh/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/beingdevansh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/beingdevansh/LeetCode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/beingdevansh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/beingdevansh/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1486-xor-operation-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/beingdevansh/LeetCode/tree/master/1720-decode-xored-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1291-sequential-digits](https://github.com/beingdevansh/LeetCode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/beingdevansh/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
