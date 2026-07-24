@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/beingdevansh/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/beingdevansh/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/beingdevansh/LeetCode/tree/master/1528-shuffle-string) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/beingdevansh/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/beingdevansh/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/beingdevansh/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/beingdevansh/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/beingdevansh/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/beingdevansh/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/beingdevansh/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/beingdevansh/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
