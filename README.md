@@ -1,5 +1,4 @@
 # LeetCode
-<img src="https://skills.syvixor.com/api/icons?i=leetcode" />
 A collection of LeetCode questions to ace the coding interview!
 
 # Languages
