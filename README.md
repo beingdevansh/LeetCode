@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3146-permutation-difference-between-two-strings](https://github.com/beingdevansh/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/beingdevansh/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/beingdevansh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/beingdevansh/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beingdevansh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/beingdevansh/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/beingdevansh/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/beingdevansh/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/beingdevansh/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/beingdevansh/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/beingdevansh/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/beingdevansh/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/beingdevansh/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
