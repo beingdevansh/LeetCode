@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/beingdevansh/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/beingdevansh/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/beingdevansh/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/beingdevansh/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/beingdevansh/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2325-decode-the-message](https://github.com/beingdevansh/LeetCode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/beingdevansh/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/beingdevansh/LeetCode/tree/master/2418-sort-the-people) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beingdevansh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/beingdevansh/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/beingdevansh/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/beingdevansh/LeetCode/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/beingdevansh/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
