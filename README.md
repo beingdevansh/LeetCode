@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/beingdevansh/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/beingdevansh/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beingdevansh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/beingdevansh/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/beingdevansh/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/beingdevansh/LeetCode/tree/master/0066-plus-one) |
 | [0319-bulb-switcher](https://github.com/beingdevansh/LeetCode/tree/master/0319-bulb-switcher) |
+| [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/beingdevansh/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/beingdevansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beingdevansh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0206-reverse-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
