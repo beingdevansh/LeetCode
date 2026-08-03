@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/beingdevansh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/beingdevansh/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/beingdevansh/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/beingdevansh/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beingdevansh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
