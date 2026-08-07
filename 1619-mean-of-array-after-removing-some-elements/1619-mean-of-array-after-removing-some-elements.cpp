@@ -2,15 +2,13 @@ class Solution {
 public:
     double trimMean(vector<int>& arr) {
         sort(arr.begin(), arr.end());
-        int n = arr.size();
+        int n = arr.size()*0.05;
         int m = 0;
-        double c = 0.0;
-        for(int i = (n*0.05); i < (n*0.95); i++)
+        for(int i = n; i < arr.size() - n; i++)
         {
             m += arr[i];
-            c++;
         }
 
-        return m/c;
+        return m/(arr.size() - 2.0*n);
     }
 };
