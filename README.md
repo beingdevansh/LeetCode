@@ -1,8 +1,13 @@
+<img 
+  src="https://skills.syvixor.com/api/icons?i=leetcode&perline=1&radius=40"
+  alt="LeetCode"
+  style="width: 100px; height: 100px;"
+/>
 # LeetCode
 A collection of LeetCode questions to ace the coding interview!
 
 # Languages
-<img src="https://skillicons.dev/icons?i=java,cpp" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,py" />
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
