@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/beingdevansh/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beingdevansh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/beingdevansh/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beingdevansh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/beingdevansh/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/beingdevansh/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/beingdevansh/LeetCode/tree/master/0344-reverse-string) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/beingdevansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
