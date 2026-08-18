@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/beingdevansh/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/beingdevansh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/beingdevansh/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/beingdevansh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/beingdevansh/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3146-permutation-difference-between-two-strings](https://github.com/beingdevansh/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/beingdevansh/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beingdevansh/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/beingdevansh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beingdevansh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/beingdevansh/LeetCode/tree/master/3731-find-missing-elements) |
