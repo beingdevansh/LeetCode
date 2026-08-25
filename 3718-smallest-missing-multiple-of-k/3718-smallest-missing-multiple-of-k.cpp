@@ -1,14 +1,20 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set <int> st(nums.begin(), nums.end());
-        
-        int i = 1;
-        while(st.find(k*i) != st.end())
-        {
-            i++;
+        vector<int> freq(101, 0);
+
+        for(int val : nums)
+            freq[val]++;
+
+        int i = k;
+
+        while(i <= 100) {
+            if(freq[i] == 0)
+                return i;
+
+            i += k;
         }
 
-        return k*i;
+        return i;
     }
 };
