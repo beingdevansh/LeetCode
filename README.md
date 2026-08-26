@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/beingdevansh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/beingdevansh/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/beingdevansh/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/beingdevansh/LeetCode/tree/master/1528-shuffle-string) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/beingdevansh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
 | [2000-reverse-prefix-of-word](https://github.com/beingdevansh/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beingdevansh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
@@ -406,4 +409,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/beingdevansh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
