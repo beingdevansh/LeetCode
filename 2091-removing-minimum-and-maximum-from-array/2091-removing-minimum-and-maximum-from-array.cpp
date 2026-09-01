@@ -5,14 +5,11 @@ public:
         if(nums.size() <= 2)
             return nums.size();
 
-        int p1 = 0;
-        int p2 = 0;
+        auto maxptr = max_element(nums.begin(), nums.end());
+        auto minptr = min_element(nums.begin(), nums.end());
 
-        for(int i = 0; i < nums.size(); i++)
-        {
-            if(nums[i] < nums[p1]) p1 = i;
-            if(nums[i] > nums[p2]) p2 = i;
-        }
+        int p1 = maxptr - nums.begin();
+        int p2 = minptr - nums.begin();
 
         int i = min(p1, p2);
         int j = max(p1, p2);
