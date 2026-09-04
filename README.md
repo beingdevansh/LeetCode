@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/beingdevansh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/beingdevansh/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/beingdevansh/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/beingdevansh/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/beingdevansh/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/beingdevansh/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/beingdevansh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/beingdevansh/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
