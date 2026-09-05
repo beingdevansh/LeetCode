@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beingdevansh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/beingdevansh/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/beingdevansh/LeetCode/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/beingdevansh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/beingdevansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/beingdevansh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/beingdevansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
@@ -432,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
