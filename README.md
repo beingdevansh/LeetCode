@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/beingdevansh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beingdevansh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/beingdevansh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/beingdevansh/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/beingdevansh/LeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/beingdevansh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/beingdevansh/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
