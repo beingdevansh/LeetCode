@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/beingdevansh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/beingdevansh/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/beingdevansh/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/beingdevansh/LeetCode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/beingdevansh/LeetCode/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beingdevansh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/beingdevansh/LeetCode/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/beingdevansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/beingdevansh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/beingdevansh/LeetCode/tree/master/0231-power-of-two) |
 ## Game Theory
 |  |
 | ------- |
