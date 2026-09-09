@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/beingdevansh/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/beingdevansh/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/beingdevansh/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beingdevansh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/beingdevansh/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/beingdevansh/LeetCode/tree/master/0189-rotate-array) |
