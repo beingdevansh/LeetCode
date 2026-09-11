@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/beingdevansh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/beingdevansh/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/beingdevansh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/beingdevansh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/beingdevansh/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3162-find-the-number-of-good-pairs-i](https://github.com/beingdevansh/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beingdevansh/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/beingdevansh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/beingdevansh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/beingdevansh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/beingdevansh/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/beingdevansh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1291-sequential-digits](https://github.com/beingdevansh/LeetCode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/beingdevansh/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/beingdevansh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/beingdevansh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/beingdevansh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/beingdevansh/LeetCode/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/beingdevansh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
