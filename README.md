@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/beingdevansh/LeetCode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/beingdevansh/LeetCode/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beingdevansh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/beingdevansh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/beingdevansh/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/beingdevansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/beingdevansh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/beingdevansh/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Enumeration
 |  |
