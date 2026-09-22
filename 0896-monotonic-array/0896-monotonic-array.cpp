@@ -11,9 +11,6 @@ public:
                 inc = false;
         }
 
-        if(inc == true || dec == true)
-            return true;
-
-        return false;
+        return inc || dec;
     }
 };
