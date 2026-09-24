@@ -1,19 +1,21 @@
 class Solution {
 public:
+    int check(int n)
+    {
+        int sum = 0;
+        while(n)
+        {
+            sum += n%10;
+            n /= 10;
+        }
+
+        return sum;
+    }
+
     int smallestIndex(vector<int>& nums) {
         for(int i = 0; i < nums.size(); i++)
-        {
-            int temp = nums[i];
-            int sum = 0;
-            while(temp != 0)
-            {
-                sum += temp%10;
-                temp /= 10;
-            }
-
-            if(sum == i)
+            if(check(nums[i]) == i)
                 return i;
-        }
 
         return -1;
     }
