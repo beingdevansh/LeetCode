@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/beingdevansh/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/beingdevansh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/beingdevansh/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/beingdevansh/LeetCode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/beingdevansh/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/beingdevansh/LeetCode/tree/master/2418-sort-the-people) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/beingdevansh/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/beingdevansh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/beingdevansh/LeetCode/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/beingdevansh/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/beingdevansh/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/beingdevansh/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
