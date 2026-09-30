@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/beingdevansh/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/beingdevansh/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/beingdevansh/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/beingdevansh/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/beingdevansh/LeetCode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/beingdevansh/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/beingdevansh/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1389-create-target-array-in-the-given-order](https://github.com/beingdevansh/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/beingdevansh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/beingdevansh/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/beingdevansh/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/beingdevansh/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/beingdevansh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/beingdevansh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/beingdevansh/LeetCode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/beingdevansh/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/beingdevansh/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/beingdevansh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
@@ -503,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/beingdevansh/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
