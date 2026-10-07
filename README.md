@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/beingdevansh/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/beingdevansh/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/beingdevansh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/beingdevansh/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/beingdevansh/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/beingdevansh/LeetCode/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/beingdevansh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/beingdevansh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/beingdevansh/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/beingdevansh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/beingdevansh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/beingdevansh/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/beingdevansh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
