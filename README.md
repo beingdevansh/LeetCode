@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/beingdevansh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/beingdevansh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/beingdevansh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/beingdevansh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/beingdevansh/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/beingdevansh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/beingdevansh/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/beingdevansh/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/beingdevansh/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/beingdevansh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/beingdevansh/LeetCode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beingdevansh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0888-fair-candy-swap](https://github.com/beingdevansh/LeetCode/tree/master/0888-fair-candy-swap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/beingdevansh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/beingdevansh/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
