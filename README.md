@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/beingdevansh/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/beingdevansh/LeetCode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/beingdevansh/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/beingdevansh/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/beingdevansh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/beingdevansh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/beingdevansh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/beingdevansh/LeetCode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/beingdevansh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/beingdevansh/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/beingdevansh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/beingdevansh/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/beingdevansh/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/beingdevansh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beingdevansh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/beingdevansh/LeetCode/tree/master/0877-stone-game) |
