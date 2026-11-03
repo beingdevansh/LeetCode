@@ -4,8 +4,8 @@ public:
         int max = *max_element(nums.begin(), nums.end());
         long long moves = 0;
         for(int val : nums)
-            moves += max - val;
+            moves += val;
 
-        return moves;
+        return nums.size() * max - moves;
     }
 };
