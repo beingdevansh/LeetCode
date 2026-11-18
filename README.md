@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2325-decode-the-message](https://github.com/beingdevansh/LeetCode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/beingdevansh/LeetCode/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/beingdevansh/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/beingdevansh/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/beingdevansh/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beingdevansh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beingdevansh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
