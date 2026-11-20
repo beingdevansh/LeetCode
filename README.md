@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/beingdevansh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/beingdevansh/LeetCode/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/beingdevansh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/beingdevansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/beingdevansh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/beingdevansh/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/beingdevansh/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
