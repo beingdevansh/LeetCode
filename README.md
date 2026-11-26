@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/beingdevansh/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/beingdevansh/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/beingdevansh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/beingdevansh/LeetCode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/beingdevansh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/beingdevansh/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/beingdevansh/LeetCode/tree/master/3516-find-closest-person) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/beingdevansh/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/beingdevansh/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/beingdevansh/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/beingdevansh/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/beingdevansh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/beingdevansh/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/beingdevansh/LeetCode/tree/master/3701-compute-alternating-sum) |
